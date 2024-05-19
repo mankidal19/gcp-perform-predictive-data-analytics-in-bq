@@ -161,7 +161,7 @@ In this case, the angle calculated is the one made by the location of the shot a
 
 Image displaying four different goal shot angle examples
 
-![alt text]https://cdn.qwiklabs.com/OTXlpdshO87DlJLb%2F5TMB5S3AGImP4Y39kf8pBMqWWM%3Dg)
+![alt text](https://cdn.qwiklabs.com/OTXlpdshO87DlJLb%2F5TMB5S3AGImP4Y39kf8pBMqWWM%3Dg)
 
 Larger angles arise from being close to the goal and in the center, so this is somewhat correlated with the distance calculation performed above. The shot angle calculations involve using BigQuery's trigonometric functions on the (x, y) data.
 
