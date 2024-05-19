@@ -100,7 +100,7 @@ AS (
 
 
 ```
-CREATE MODEL `soccer.xg_logistic_reg_model`
+CREATE MODEL `soccer.xg_logistic_reg_model_195`
 OPTIONS(
  model_type = 'LOGISTIC_REG',
  input_label_cols = ['isGoal']
